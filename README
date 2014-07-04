@@ -1,0 +1,3 @@
+This is a demo game created for the purpose of having fun and as a teaching tool for COGS. Essentially I thought it would be fun to write a game, rip out the important parts that make it work, and then rewrite it in a series of livecoding sessions during the first few meetings of COGS as a kind of recruitment/involvement tool.
+
+It's in Java because that's what they teach in the introductory classes CS111 and 112.
